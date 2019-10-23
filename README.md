@@ -5,7 +5,7 @@ This API extension create custom PayPal paymnet method with code `vsfpaypal` you
 ## Installation
 
 ```
-composer config repositories.develodesign vcs https://github.com/develodesign/m2-paypal-payment.git
-composer require develodesign/m2-paypal-payment:dev-master
+composer config repositories.jimmylion vcs https://github.com/jimmylion/m2-paypal-payment.git
+composer require jimmylion/m2-paypal-payment:dev-master
 bin/magento module:enable Develodesign_VsfPaypal
 ```
